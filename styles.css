@@ -1,0 +1,45 @@
+/* add your CSS here */
+.card-wrapper {
+  border: 1px solid #ccc;
+  width: 300px;
+  padding: 0 15px;
+  box-shadow: 5px 5px 10px #cccccc;
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Peru_Machu_Picchu_Sunrise.jpg/1200px-Peru_Machu_Picchu_Sunrise.jpg');
+  background-position: center;
+  border-radius: 5px;
+}
+.title {
+  color: #03a037;
+  background: #fff;
+  border-radius: 5px;
+  padding: 15px;
+  border: 1px solid #03a037;
+  box-shadow: 1px 1px 15px #003009;
+  font-family: Arapey;
+}
+.picture {
+  max-width: 300px;
+  height: 200px;
+  box-shadow: 1px 1px 5px #03a037;
+  border: 1px solid #03a037;
+  border-radius: 5px;
+}
+.details-wrapper {
+  border: 1px solid #03a037;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 0 15px 15px 15px;
+  background: #fff;
+  box-shadow: 1px 1px 5px #ccc;
+  border-radius: 5px;
+  font-family: Helvetica, Arial;
+}
+.fact {
+  font-style: italic;
+  color: #005b1f;
+}
+
+.details {
+  list-style: none;
+  padding: 0;
+}
