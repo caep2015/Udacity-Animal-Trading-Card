@@ -1,5 +1,5 @@
 # Udacity-Animal-Trading-Card
-Udacity Grow With Google Challenge Project 2
+Udacity Grow With Google Challenge Project 2 / Phase 1 
 
 Page resembles card from design prototype.
 
